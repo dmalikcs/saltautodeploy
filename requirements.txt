@@ -1,0 +1,34 @@
+#-e git://github.com/fusionbox/django-fusionbox.git#egg=django_fusionbox
+Django
+South
+#Werkzeug
+#django-cachebuster
+#django-compressor
+django-debug-toolbar
+#django-email-bandit
+#django-extensions
+#django-grappelli
+#django-secure
+django-dotenv
+#pyScss
+#dj-database-url
+### Fabric
+#fusionbox-fabric-helpers
+### Raven for sentry error reporting
+#raven
+### AWS/Heroku
+psycopg2
+#gunicorn
+#boto
+#django-storages
+#django-herokuify
+#pylibmc
+#newrelic
+#django-postgrespool
+### Running the app from the Procfile
+#honcho
+### Django pep8 testing
+django-test-pep8
+#python-memcached
+#flup
+fabric

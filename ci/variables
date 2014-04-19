@@ -1,0 +1,5 @@
+DEV_DOMAIN_NAME='{{ DOMAIN }}'
+PROD_DOMAIN_NAME='{{ff}}'
+ENVIRONMENT_TYPE='production'
+
+

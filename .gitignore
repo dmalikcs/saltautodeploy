@@ -1,0 +1,16 @@
+##uploaded files ##
+.DS_Store
+.coverage
+media/upload/*
+sqlite_database
+.env
+*.pyc
+src/
+static/*
+media/*
+!.gitkeep
+.sass-cache/
+tmp/
+settings_local.py
+build/
+backups/
